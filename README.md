@@ -1,8 +1,6 @@
 # Dmitrii Sergeev | Embedded Software Engineer
 
-Embedded Software Engineer with 2+ years of professional experience in firmware development, from low-level drivers and hardware bring-up to automated measurement systems. M.Sc. in Engineering of Micro- and Nanoelectronics, Peter the Great St. Petersburg Polytechnic University (SPbPU).
-
-**Portfolio (PDF):**
+Embedded Software Engineer with approximately 3 years of professional experience in firmware development, from low-level drivers and hardware bring-up to automated measurement systems. M.Sc. in Engineering of Micro- and Nanoelectronics, Peter the Great St. Petersburg Polytechnic University (SPbPU).
 
 ## Professional Work
 
