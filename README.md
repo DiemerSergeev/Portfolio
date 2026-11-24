@@ -8,7 +8,7 @@ I work where hardware meets software: reading schematics and datasheets, writing
 
 | Portfolio | Focus | File |
 |---|---|---|
-| Embedded Software | Firmware, device drivers, Embedded Linux, IoT | [Dmitrii_Sergeev_Portfolio_Embedded_Software_Engineer.pdf](Dmitrii_Sergeev_Portfolio_Embedded_Software_Engineer.pdf) |
+| Embedded Software | Firmware, device drivers, Embedded Linux, IoT | [Dmitrii_Sergeev_Portfolio_Embedded_Software_Engineer.pdf](Dmitrii Sergeev Portfolio Embedded Software Engineer.pdf) |
 | Hardware | Electronics and measurement systems | [Dmitrii_Sergeev_Portfolio_Hardware_Engineer.pdf](Dmitrii_Sergeev_Portfolio_Hardware_Engineer.pdf) |
 
 ## Contact
